@@ -1,2 +1,2 @@
 def hello_world():
-    print("Goodbuy World")
+    print("Hello world, my name is Matija Ulic and I'm learning about version control!")
